@@ -4,6 +4,10 @@
       <directory suffix=".php">Plugin</directory>
       <directory suffix=".php">Test</directory>
       <directory suffix=".php">Vendor</directory>
+      <!-- ここから -->
+      <directory suffix=".php">Config/bootstrap</directory>
+      <file>Config/database.php</file>
+     <!-- ここまで追加 -->
     </blacklist>
   </filter>
 </phpunit>

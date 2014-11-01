@@ -27,6 +27,7 @@
         "sizuhiko/Bdd": "dev-master",
         "behat/mink-goutte-driver": "*",
         "sizuhiko/fabricate": "1.*",
-        "phing/phing": "~2.8"
+        "phing/phing": "~2.8",
+        "phpmd/phpmd": "2.*"
    }
 }
